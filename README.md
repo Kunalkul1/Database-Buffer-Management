@@ -3,11 +3,12 @@
 ## Team E
 
 ### Unity IDs:
-Rishabh Sinha (rsinha2)
-Rachit Shrivastava (rshriva)
-Kshitij Patil (kspatil2)
-Sahil Dorwat (ssdorwat)
-Kunal Kulkarni (krkulkar)
+Kunal Kulkarni (krkulkar)  
+Rishabh Sinha (rsinha2)  
+Rachit Shrivastava (rshriva)  
+Kshitij Patil (kspatil2)  
+Sahil Dorwat (ssdorwat)  
+
 
 ### List of files changed
 1. SimpleDB/simpledb/buffer/BasicBufferMgr.java
